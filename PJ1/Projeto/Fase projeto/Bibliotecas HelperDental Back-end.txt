@@ -1,0 +1,41 @@
+groupId: org.springframework.boot
+artifactId: spring-boot-starter-parent
+version: 1.5.10.RELEASE
+		
+groupId: org.springframework.boot
+	spring-boot-starter-data-jpa	
+	spring-boot-starter-web
+	spring-boot-devtools
+	spring-boot-starter-test
+	spring-boot-starter-security
+	spring-boot-configuration-processor
+
+groupId: mysql
+	mysql-connector-java
+
+groupId: groupId: org.flywaydb
+	flyway-core 
+
+groupId: groupId: org.hibernate
+	hibernate-java8
+
+groupId: com.fasterxml.jackson.datatype
+	jackson-datatype-jsr310
+
+groupId: org.apache.commons
+	commons-lang3
+		
+groupId: org.springframework.security.oauth	
+	spring-security-oauth2	
+			
+groupId: org.springframework.security
+	spring-security-jwt
+
+groupId: com.amazonaws
+	aws-java-sdk
+
+groupId: org.imgscalr
+	imgscalr-lib
+		
+			
+		
