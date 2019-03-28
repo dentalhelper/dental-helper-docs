@@ -61,3 +61,13 @@
 - [x] Não Deve Salvar Material Com Um Atributo Sem o Nome.
 - [x] Não Deve Salvar Material Com Um Atributo Sem o Valor.
 - [x] Não Deve Buscar Material Com Código Inexistente.
+
+
+* * *
+
+![back-tests](https://user-images.githubusercontent.com/23413093/55163592-d3895a00-5148-11e9-9898-7bcd99916d38.png)
+
+
+[Ir para código de testes](https://github.com/dentalhelper/dental-helper-api/tree/master/src/test/java/com/projeto/dentalhelper "Testes")
+
+* * *
